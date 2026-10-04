@@ -36,7 +36,7 @@ const john = {
 ### Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=john-casildo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=John%27s%20GitHub%20Stats" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=john-casildo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&disable_animations=true&custom_title=John%27s%20GitHub%20Stats" alt="GitHub stats" />
   <img height="160" src="https://streak-stats.demolab.com?user=john-casildo&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
