@@ -20,7 +20,7 @@ const john = {
 
 ### Projects
 
-| | |
+| Project | What it is |
 |---|---|
 | **[Presencia](https://github.com/john-casildo/PresenciaApp)** | Attendance tracking for small-group leaders — native iOS + Android on one Supabase backend |
 | **[Maruchan University](https://github.com/john-casildo/Maruchan_University)** | University management system — FastAPI, PostgreSQL, Streamlit, all in Docker |
@@ -36,7 +36,7 @@ const john = {
 ### Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=john-casildo&show_icons=true&theme=tokyonight&hide_border=true&custom_title=John%27s%20GitHub%20Stats" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=john-casildo&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=John%27s%20GitHub%20Stats" alt="GitHub stats" />
   <img height="160" src="https://streak-stats.demolab.com?user=john-casildo&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
