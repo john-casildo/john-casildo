@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-lake-beta-12.vercel.app">Portfolio</a> ·
+  <a href="https://johncasildo.vercel.app">Portfolio</a> ·
   <a href="mailto:johnbsns@outlook.com">Email</a>
 </p>
 
